@@ -2,3 +2,4 @@ inference
 numpy
 matplotlib
 opencv-python
+supervision
