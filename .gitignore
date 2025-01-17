@@ -2,3 +2,4 @@ checkpoints
 inference/DATASET-V1-4
 inference/DATASET-V1-5
 inference/download.ipynb
+.env
